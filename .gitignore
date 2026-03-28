@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# User personal data
+user_data/*
+!user_data/.gitkeep
+
+# Exported presets (if you ever save them inside the project)
+*.json
+
+# PyInstaller build output
+dist/
+build/
+*.spec
+
+# OS clutter
+.DS_Store
+Thumbs.db
