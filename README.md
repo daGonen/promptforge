@@ -10,6 +10,10 @@ Built for creators, AI artists, and power users who work across multiple models 
 
 ---
 
+![PromptForge UI](assets/promptforge.png)
+
+---
+
 ## Features
 
 - **Block-based prompt building** — modular fields for every aspect of your prompt. Add, remove, drag to reorder, or use ↑↓ arrows.
