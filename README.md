@@ -10,7 +10,7 @@ Built for creators, AI artists, and power users who work across multiple models 
 
 ---
 
-![PromptForge UI](assets/promptforge.png)
+![PromptForge UI](assets/promtforge.png)
 
 ---
 
